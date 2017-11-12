@@ -2,16 +2,11 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [tes](test.md)t
-
-\[chapter1\]\(/chapter1/README.md\)
-
-* * bbb
-    * ccc
-
-1. aaa
-2. bbb
-3. ccc
+* [tes](test.md)
+* [chapter 1 \[/chapter\_1/README.md](chapter1-chapter1readmemd.md)\]
+* aaa
+* bbb
+* ccc
 
 
 
